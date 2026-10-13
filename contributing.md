@@ -13,6 +13,7 @@ In your pull request, explain the idea behind the project and how it aims to hel
 We include applications that:
 
 - Accept input and calculate results as a main function.
+- Provide useful calculations in their own right, with results users can apply without buying a separate product or service promoted by the publisher.
 - Work, have documentation, and offer an English interface.
 - Have a reason to recommend them, such as a useful purpose, a distinctive capability, an authoritative source, popularity, or a strong open-source implementation.
 - Have official pages that confirm their platforms, pricing, license, and source availability.
@@ -22,10 +23,13 @@ Please leave out:
 
 - Libraries, APIs, SDKs, code snippets, spreadsheets, templates, articles, tutorials, videos, or communities.
 - Pages built mainly to attract search traffic with little useful functionality, link collections without their own calculators, or applications dominated by intrusive advertising.
+- Calculators whose main purpose is to drive product sales, affiliate purchases, bookings, or sales enquiries, with little useful functionality beyond that promotion. Free access and correct arithmetic alone do not establish standalone value.
 - Projects that no longer work, are deprecated or archived, or have no documentation.
 - Individual calculators from an already listed collection, unless they are unusually authoritative or capable on their own.
 
 For mature applications that are no longer maintained but still work, please suggest [`unmaintained.md`](unmaintained.md).
+
+Paid calculator applications can qualify. The standalone-value requirement concerns dependence on a separate promoted product or service. Advertising or affiliate funding does not automatically exclude an application, but the calculator itself must offer enough value to recommend it without the sales pitch.
 
 ## Choosing a list
 
@@ -43,9 +47,11 @@ Before adding an application to the main or Emerging list, maintainers:
 - Use the application beyond its landing page.
 - Try a few representative inputs and compare the results with independently calculated answers. Record the inputs, expected answers, and actual results in the pull request.
 - Check that the application is useful and explains its methods or assumptions well enough to interpret the results.
+- Assess standalone value. Ask what useful task a user can complete, and whether the calculator would still be worth recommending without the publisher's sales pitch. Check whether useful results or essential parts of the workflow depend on a separate promoted product or service. Record the assessment in the pull request.
+- Inspect sales prompts and affiliate recommendations. Check whether the inputs and assumptions support the user's task or steer the result toward a purchase. Decline tools whose main value is promotional, even when they are free and their arithmetic works.
 - Verify platforms, price, license, and source availability against official pages.
 
-Both lists follow the eligibility rules above. Applications stay in pull request discussion until they pass these checks; Emerging is not a default destination for unreviewed submissions.
+Both lists follow the eligibility rules above. Applications stay in pull request discussion until they pass these checks. Emerging is not a default destination for unreviewed submissions.
 
 Keep review notes in the pull request discussion or closing comment. Keep the placement criteria in the Emerging introduction. The same criteria apply to existing entries, and moving an application to the main list requires a review with supporting evidence.
 

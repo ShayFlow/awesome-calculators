@@ -71,6 +71,8 @@ Applications that pass basic hands-on checks but need more evidence for a main-l
 - [Wolfram\|Alpha](https://www.wolframalpha.com/) - Computes answers across mathematics, science, units, and structured data from natural-language questions. `Web` `macOS` `iOS` `Android` · **Price:** Free basic tier; US\$9.99/month or US\$60/year for Pro · **License:** Proprietary.
 - [Xcas and Giac](https://xcas.univ-grenoble-alpes.fr/) - Combines computer algebra with worksheets, spreadsheets, geometry, programming, and 2D or 3D graphing. `Web` `Windows` `macOS` `Linux` · **Price:** Free · **License:** GPL-3.0-or-later · **Source:** [Official site](https://www-fourier.univ-grenoble-alpes.fr/~parisse/giac.html).
 
+[Explore emerging calculators in this category](emerging.md#scientific-graphing-and-computer-algebra).
+
 ## Command-Line Calculators
 
 - [fend](https://printfn.github.io/fend/) - Evaluates arbitrary-precision expressions with units, dates, currencies, complex numbers, and programmable functions. `Web` `Windows` `macOS` `Linux` `CLI` · **Price:** Free · **License:** MIT · **Source:** [GitHub](https://github.com/printfn/fend).

@@ -35,7 +35,7 @@ No entries yet.
 
 ## Scientific, Graphing, and Computer Algebra
 
-No entries yet.
+- [SolveCalcPro](https://solvecalcpro.com/) - Evaluates scientific expressions with trigonometry, logarithms, powers, percentages, memory, and history, with additional math tools that show formulas and worked examples. `Web` · **Price:** Free with advertising · **License:** Proprietary.
 
 ## Command-Line Calculators
 
@@ -70,6 +70,7 @@ No entries yet.
 ### Collections and Other
 
 - [Altyst Calculators](https://altyst.ai/tools) - Calculates net operating income, commercial loan proceeds against loan-to-value, minimum DSCR and minimum debt yield at once, cap rate, DSCR, cash-on-cash return, gross rent multiplier, and break-even occupancy for income property. `Web` · **Price:** Free · **License:** Proprietary.
+- [CalcSolver India](https://calcsolver.in/) - Calculates loan EMI, SIP investment projections, GST, and Indian income-tax estimates, with formulas, worked examples, and Indian digit grouping. `Web` `IN` · **Price:** Free · **License:** Proprietary.
 - [CalculatorVillage](https://calculatorvillage.com/) - Collects calculators for finance, health, mathematics, construction, and everyday tasks, with documented methods and worked examples. `Web` · **Price:** Free · **License:** Proprietary.
 - [Calculora](https://calculora.net/) - Groups more than 300 calculators across finance, health, mathematics, physics, conversion, and developer topics, each with its formula, assumptions, and cited sources. `Web` · **Price:** Free · **License:** Proprietary.
 - [DateCalx](https://datecalx.com/) - Calculates dates, age, business days, countdowns, calendars, and time. `Web` · **Price:** Free · **License:** Proprietary.
